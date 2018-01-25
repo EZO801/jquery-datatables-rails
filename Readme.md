@@ -1,6 +1,6 @@
-
 # jquery-datatables-rails
 [![Gem Version](https://badge.fury.io/rb/jquery-datatables-rails.svg)](http://badge.fury.io/rb/jquery-datatables-rails)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fjquery-datatables-rails.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fjquery-datatables-rails?ref=badge_shield)
 
 This gem packages the jQuery [DataTables](http://datatables.net/) plugin for easy use with the Rails 3.1+ asset pipleine.
 It provides all the basic DataTables files, and a few of the extras.
@@ -244,3 +244,7 @@ Make sure to also add it's initialization as described on [datatables extras' si
 [datatables-responsive]: https://github.com/Comanche/datatables-responsive
 [RailsCast #340 DataTables]: http://railscasts.com/episodes/340-datatables
 [ajax-datatables-rails]: https://github.com/antillas21/ajax-datatables-rails
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fjquery-datatables-rails.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fjquery-datatables-rails?ref=badge_large)
